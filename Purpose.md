@@ -1,0 +1,1 @@
+This is where notes for games live. I intend it to be syncable across devices
